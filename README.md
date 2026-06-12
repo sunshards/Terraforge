@@ -79,6 +79,12 @@ Upload and publish use the same flow as DeviceDemo's portable branch; see
 
 TerraForge 32 3D deliberately stresses PRG32 subsystems: full-screen rectangle rasterization, fixed-point math, procedural block maps, ray casting, billboard projection, sprite/tile asset use, input edge detection, inventory state, particles, audio beeps/note sequences, stereo soundtrack scheduling, and compact didactic code organization.
 
+## Teaching tutorial
+
+For a step-by-step first-year laboratory sequence covering design, implementation,
+debugging, deployment, and Cartridge Store publication, see
+`docs/teaching_tutorial.md`.
+
 ## License
 
 Code is MIT. Original art/audio assets are CC0-1.0. See `LICENSE` and `assets/manifest.json`.
